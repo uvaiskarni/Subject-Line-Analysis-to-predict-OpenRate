@@ -23,6 +23,8 @@ Stemming_tokenize.py contains tokenisation and stemming process
 
 SLA new.py contains all the other steps such model creation and model run
 
-Single data is used , using train_test_split it used for both training and testing the 
+Single data is used , using train_test_split is been used for genarate data for both training and testing the model.
+
+For more indepth summary pls look into my General Reccomendation directory. 
 
 
